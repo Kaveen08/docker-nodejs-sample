@@ -45,3 +45,6 @@ Quelle: [Github](https://docs.github.com/de/repositories/creating-and-managing-r
 
 Auf der [Webseite von Docker](https://www.docker.com/get-started/) kann man Docker herunterladen für Windows.
 
+Man muss einen Docker Container erstellen.
+Danach einen Docker-Image machen.
+Den Container starten und die Ports angeben.
